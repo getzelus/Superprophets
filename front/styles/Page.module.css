@@ -1,0 +1,10 @@
+.cardContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    margin: 2px;
+    border: 1px dashed grey;
+    padding: 2px;
+}
